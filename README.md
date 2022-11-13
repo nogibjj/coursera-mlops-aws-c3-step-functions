@@ -1,5 +1,9 @@
 ### Step Functions
 
+![marco-polo-step-function](https://user-images.githubusercontent.com/58792/201526779-ed7ae4f2-c3f8-42fc-bc47-c219ac1ba083.jpg)
+
+
+
 Tasks:
 
 1. Run `marco_polo.py` command-line tool:  `./marco_polo.py phrase Marco` and `./marco_polo.py phrase Sally`
