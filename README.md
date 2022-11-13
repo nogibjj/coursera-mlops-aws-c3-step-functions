@@ -1,5 +1,11 @@
 ### Step Functions
 
+Tasks:
+
+1. Run `marco_polo.py` command-line tool:  `./marco_polo.py phrase Marco` and `./marco_polo.py phrase Sally`
+2. Look at the step function JSON file `step-function.json` and notice how two lambda functions work together to create a step function pipeline
+3. Go to AWS and create two lambda functions using the example lambda functions provided and then create a step function that uses these two lambda functions.
+
 
 ### References
 
